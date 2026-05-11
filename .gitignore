@@ -5,7 +5,12 @@
 *.swp
 .DS_Store
 .atom/
-.build/
+/build/app/
+/build/ios/
+/build/linux/
+/build/windows/
+/build/macos/
+/build/android/
 .buildlog/
 .history
 .svn/
